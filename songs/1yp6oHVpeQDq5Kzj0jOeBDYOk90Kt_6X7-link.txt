@@ -1,0 +1,3 @@
+URL de descarga (Google Drive): https://drive.google.com/file/d/1yp6oHVpeQDq5Kzj0jOeBDYOk90Kt_6X7/view?usp=sharing
+
+Nota: El archivo binario no fue subido directamente. Este archivo contiene el enlace público a la canción. Si prefieres que suba el binario al repositorio, proporciona un enlace de descarga directa o confirma que el archivo pesa <=100 MB; si pesa más puedo usar Git LFS o subirlo como Release.
